@@ -1,4 +1,4 @@
-# Oh Hai! I'm Adelina Simion 👋
+# Oh Hai! I'm Adelina 👋
 <br/>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -9,7 +9,7 @@
 I'm a Technology Evangelist working at [Form3](https://www.form3.tech/) and based in London. 🇬🇧 
 
 I've been a Software Engineer since 2014, working at first in Java and then converted to Go in 2018.
-You can read more about my background [on my blog](https://adelinasimion.dev/about_me/)
+You can read more about my background [on my blog](https://adelinasimion.dev/about_me/).
 
 <br/>
 
@@ -47,3 +47,9 @@ One of my favourites is my talk "Using NATS for multi-cloud event streaming" at 
 <a href="https://adelinasimion.dev/" target="_blank">
    <img src="images/rss.png" width="48"/>
 </a>
+
+<br/>
+
+<h2>
+Thanks for stopping by! ☀️
+</h2>
