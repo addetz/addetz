@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.adelinasimion.dev/" target="_blank">
+  <img src="images/banner.png" alt="my banner" width="100%"></a>
+</p>
+
+
 # Oh Hai! I'm Adelina 👋
 <br/>
 
@@ -6,9 +12,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-I'm a Technology Evangelist working at [Form3](https://www.form3.tech/) and based in London. 🇬🇧 
+I'm a Technology Evangelist 🥑  working at [Form3](https://www.form3.tech/), based in London. 🇬🇧 
 
-I've been a Software Engineer since 2014, working at first in Java and then converted to Go in 2018.
+I've been a Software Engineer since 2014, working at first in Java, then converted to Go in 2018.
 You can read more about my background [on my blog](https://adelinasimion.dev/about_me/).
 
 <br/>
