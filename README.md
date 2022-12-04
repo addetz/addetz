@@ -19,13 +19,18 @@ You can read more about my background [on my blog](https://adelinasimion.dev/abo
 
 <br/>
 
-## My LinkedIn Learning course 🎓
+## My LinkedIn Learning courses 🎓
+<a href="https://linkedin-learning.pxf.io/c/3226804/718708/8005" target="_top" id="718708"><img
+    src="//a.impactradius-go.com/display-ad/8005-718708" border="0" alt="" width="655" height="128" /></a><img
+  height="0" width="0" src="https://linkedin-learning.pxf.io/i/3226804/718708/8005"
+  style="position:absolute;visibility:hidden;" border="0" />
 
 I'm a [LinkedIn Learning instructor](https://www.linkedin.com/learning/instructors/adelina-simion). 👩🏻‍🏫
 
-My course "Applied Concurrency in Go" was released in January 2022.
-
-<a href="https://www.linkedin.com/learning/applied-concurrency-in-go/" target="_blank"><img align="center" src="images/conc-course.png"/></a>
+The links below make my courses **FREE/GRATIS/ZERO COST** for you 💸:
+- <a href="https://bit.ly/applied-conc-go" target="_blank" rel="noopener noreferrer">👉 Applied Concurrency in Go 👈</a>
+- <a href="https://bit.ly/java2go" target="_blank" rel="noopener noreferrer">👉 Transitioning from Java to Go 👈</a>
+- <a href="https://www.linkedin.com/learning/level-up-go?trk=lilblog_11-09-22_instructor-codespaces_learning" target="_blank" rel="noopener noreferrer">👉 Level Up: Go 👈</a>
 
 <br/>
 
