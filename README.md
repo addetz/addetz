@@ -20,10 +20,9 @@ You can read more about my background [on my blog](https://adelinasimion.dev/abo
 <br/>
 
 ## My LinkedIn Learning courses 🎓
-<a href="https://linkedin-learning.pxf.io/c/3226804/718708/8005" target="_top" id="718708"><img
-    src="//a.impactradius-go.com/display-ad/8005-718708" border="0" alt="" width="655" height="128" /></a><img
-  height="0" width="0" src="https://linkedin-learning.pxf.io/i/3226804/718708/8005"
-  style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://linkedin-learning.pxf.io/c/3226804/718708/8005" target="_blank">
+    <img align="center" src="images/lil-banner.png" />
+</a>
 
 I'm a [LinkedIn Learning instructor](https://www.linkedin.com/learning/instructors/adelina-simion). 👩🏻‍🏫
 
