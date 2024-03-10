@@ -43,6 +43,6 @@ You can see my full list of conference talks & video interviews on [this YouTube
 <a href="https://www.linkedin.com/in/adelina-simion/" target="_blank">
    <img src="images/linkedin.png" width="48"/>
 </a>
-<a href="https://adelinasimion.dev/" target="_blank">
+<a href="https://dev.to/addetz" target="_blank">
    <img src="images/rss.png" width="48"/>
 </a>
